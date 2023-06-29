@@ -9,7 +9,7 @@ on:
 env:
   CLOUDFLARE_EMAIL: ${{ secrets.CLOUDFLARE_EMAIL}}
   CLOUDFLARE_API_KEY: ${{ secrets.CLOUDFLARE_API_KEY}}
-  tf_target_dir: example/example
+  tf_target_dir: example/examplea
   
 permissions: read-all
 
