@@ -1,6 +1,6 @@
-variable "team_name" {
+variable "sohamjain" {
   type        = string
-  description = "Your cloudflare team name"
+  description = ""
 }
 
 variable "logo_path" {
